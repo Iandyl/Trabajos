@@ -1,0 +1,27 @@
+#Capitulo 1 Ejercicios
+
+("Hello Python interpreter!")
+Hello Python interpreter!
+ 
+>>> print ("Hello Python interpreter!")
+
+>>> print("Hello Python interpreter!")
+
+>>>  print("Hello Python interpreter!")      
+    
+    ("Hello Python interpreter!")
+    
+>>> print("Hello Python interpreter!")
+
+Hello Python interpreter!
+         
+>>> print("Hello Python world!")
+Hello Python world!
+>>> message = "Hello Python world!"
+>>>message = "Hello Python world!"
+print(message)
+
+>>> print("Hello Python interpreter!")
+Hello Python interpreter!
+>>> print("Hello world!")
+Hello world! 
