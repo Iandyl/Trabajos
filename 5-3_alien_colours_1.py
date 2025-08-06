@@ -2,8 +2,7 @@
 """
 Created on Sun May 10 20:44:13 2020
 
-@author: barbora
-"""
+@author: Andres Bernal
 
 # Imagine an alien was just shot down in a game. Create a variable called
 # alien_colour and assign it a value of green, yellow or red.
@@ -19,11 +18,11 @@ alien_colour = 'green'
 if alien_colour == 'green':
     print("Congratulations, you just earned 5 points!")
 else:
-    print("Sorry, wrong colour")
+    print("wrong colour")
 
 # Repeat for failure    
 alien_colour = 'yellow'
 if alien_colour == 'green':
     print("Congratulations, you just earned 5 points!")
 else:
-    print("Sorry, wrong colour.")
+    print("wrong colour.")
