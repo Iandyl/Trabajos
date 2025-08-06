@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun May 10 20:49:54 2020
+Created on Sun May 10 20:49:54 2022
 
-@author: barbora
-"""
+@author: Andres Bernal
 
 # Choose a colour for an alien as you did in 5-3, and write an if-else chain.
 # - If the alien's colour is green, print a statement that the player just
