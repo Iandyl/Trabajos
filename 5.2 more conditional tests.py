@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat May  9 11:34:21 2020
+Created on Sat May  9 11:34:21 2024
 
-@author: barbora
-"""
+@author: Andres Bernal
 
 # Write more conditional tests, with at least one True and one False example
 # for each of the following:
