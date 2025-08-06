@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun May 10 20:54:10 2020
+Created on Sun May 10 20:54:10 2022
 
-@author: barbora
-"""
+@author: Andres Bernal
+
 
 # Turn your if-else chain from 5-4 into an if-elif-else chain.
 # - If the alien is green > 5 points.
