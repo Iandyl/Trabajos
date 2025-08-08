@@ -1,13 +1,41 @@
-Python 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license" for more information.
->>> car = 'subaru'
->>> print("Is car == 'subaru'? I predict True.")
-Is car == 'subaru'? I predict True.
->>> print(car == 'subaru')
-True
->>> print("\nIs car == 'audi'? I predict False.")
+coche = 'subaru'
+print("¿Es el auto == 'subaru'? Predigo que es Verdadero.")
+print(coche == 'subaru')
+print("\n¿Es auto == 'audi'? Predigo Falso.")
+print(coche == 'audi')
 
-Is car == 'audi'? I predict False.
->>> print(car == 'audi')
-False
->>> 
+# (ejemplos)
+print("\n¿Es el color == 'rojo'? Predigo que es Falso.")
+
+color = 'azul'
+print(color == 'rojo')
+
+print("\n¿Es la edad >= 18? Predigo que es Verdadero.")
+
+edad = 25
+
+print(edad >= 18)
+
+print("\n¿Es la fruta == 'manzana'? Predigo que es Verdadero.")
+fruta = 'manzana'
+print(fruta == 'manzana')
+
+print("\n¿Es el número > 10? Predigo que es Falso.")
+numero = 5
+print(numero > 10)
+
+print("\n ¿Es el nombre != 'Juan'? Predigo que es Verdadero.")
+nombre = 'Pedro'
+print(nombre != 'Juan')
+
+print("\n¿Es la ciudad == 'Mazatlán'? Predigo que es Verdadero.")
+ciudad = 'Mazatlán'
+print(ciudad == 'Mazatlán')
+
+print("\n¿Es la temperatura < 0? Predigo que es Falso.")
+temperatura = 15
+print(temperatura < 0)
+
+print("\n¿Es el país == 'México'? Predigo que es Verdadero.")
+pais = 'México'
+print(pais == 'México')
